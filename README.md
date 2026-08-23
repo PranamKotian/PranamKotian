@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Pranam Kotian!
 🔭 I’m currently working on software development & real-world tech projects<br>👯 I’m looking to collaborate on CSE, AI/ML & innovative tech projects<br>🤝 I’m looking for help with AI/ML, advanced programming & building better projects<br>🌱 I’m currently learning Python, SQL, AI/ML, DBMS & Computer Networks<br>💬 Ask me about Python, programming, CSE & tech ideas<br>⚡ Fun fact: I love turning random ideas into code and exploring how technology can make them real 
 
 
